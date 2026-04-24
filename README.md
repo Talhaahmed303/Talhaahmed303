@@ -60,8 +60,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talhaahmed303\&show_icons=true\&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaahmed303\&layout=compact\&theme=radical)
 
 ---
