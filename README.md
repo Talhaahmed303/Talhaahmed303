@@ -1,100 +1,49 @@
 # 👋 Hi, I'm Talha Ahmed
 
-🚀 **Full Stack Developer | Python • JavaScript • React • Django**
-💡 I love building scalable, clean and real-world web applications
+🚀 Full Stack Developer | React.js • Django • Python • Node.js
+
+I build scalable, responsive, and production-ready web applications using modern technologies.
 
 ---
 
 ## 🧠 About Me
 
-* 🎯 Passionate about Full Stack Development
-* ⚡ Focused on building real-world projects
-* 📈 Always learning new technologies and improving problem-solving skills
-* 💻 Interested in Backend + Frontend architecture
+* 🎯 Full Stack Developer focused on real-world applications
+* ⚡ Passionate about clean code and scalable architecture
+* 📈 Always learning and improving problem-solving skills
+* 💻 Interested in backend systems and modern UI development
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
-### 💻 Programming Languages
-
-* Python
-* JavaScript
-* C++
-
-### ⚙️ Frameworks & Technologies
-
-* React.js
-* Node.js
-* Django
-
-### 🌐 Web Technologies
-
-* HTML5
-* CSS3
-* Tailwind CSS
-* Bootstrap
-
-### 🗄 Databases
-
-* MySQL
-* SQLite
-
-### 🧰 Tools
-
-* Git
-* GitHub
-* VS Code
-* Docker
+**Languages:** Python | JavaScript | C++
+**Frontend:** React.js | HTML5 | CSS3 | Tailwind CSS
+**Backend:** Django | Node.js | REST APIs
+**Database:** MySQL | SQLite
+**Tools:** Git | GitHub | VS Code | Docker
 
 ---
 
-## 🚀 What I Do
+## 🚀 Featured Projects
 
-* Build full-stack web applications
-* Develop REST APIs using Django & Node.js
-* Create responsive UI with React & Tailwind
-* Work with databases & backend systems
+🏠 **Relasto – Real Estate Platform**
+Full-stack web app with authentication, property management, search & filters.
 
----
+🌐 **Portfolio Website**
+Responsive personal portfolio showcasing projects and skills.
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talhaahmed303\&layout=compact\&theme=radical)
+💬 **API / Web Apps**
+Modern applications built with React and backend APIs.
 
 ---
 
-## 📌 Featured Projects
+## 🌍 Connect With Me
 
-### 🏠 Real Estate Platform
-
-Full-stack property listing web app
-✔ Authentication
-✔ Property management
-✔ Search & filters
-
-### 🛒 E-Commerce App
-
-Online shopping system
-✔ Cart system
-✔ Product management
-✔ User authentication
-
-### 💬 Chat Application
-
-Real-time chat system
-✔ Live messaging
-✔ User sessions
+💼 LinkedIn: linkedin.com/in/talhaahmed303
+🌐 Portfolio: gleaming-bonbon-e39bec.netlify.app
+📧 Email: [talhaahmed5126@gmail.com](mailto:talhaahmed5126@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/talhaahmed303/
-* 🌍 Portfolio: https://gleaming-bonbon-e39bec.netlify.app/
-* 📧 Email: talhaahmed5126@gmail.com
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real-world working products 🚀
+⚡ *“Build. Learn. Improve. Repeat.”*
