@@ -41,7 +41,9 @@ Modern applications built with React and backend APIs.
 ## 🌍 Connect With Me
 
 💼 LinkedIn: [linkedin.com/in/talhaahmed303](https://www.linkedin.com/in/talhaahmed303/)
+
 🌐 Portfolio: [gleaming-bonbon-e39bec.netlify.app](https://gleaming-bonbon-e39bec.netlify.app/)
+
 📧 Email: [talhaahmed5126@gmail.com](mailto:talhaahmed5126@gmail.com)
 
 ---
