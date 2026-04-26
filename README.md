@@ -17,11 +17,19 @@ I build scalable, responsive, and production-ready web applications using modern
 
 ## 🛠 Tech Stack
 
-**Languages:** Python | JavaScript | C++
-**Frontend:** React.js | HTML5 | CSS3 | Tailwind CSS
-**Backend:** Django | Node.js | REST APIs
-**Database:** MySQL | SQLite
-**Tools:** Git | GitHub | VS Code | Docker
+Programming Languages: Python | JavaScript | C++
+
+Frontend Development: React.js | Redux | HTML5 | CSS3 | Tailwind CSS
+
+Backend Development: Django | Django REST Framework | Node.js
+
+Authentication & Security: JWT Authentication | Authorization | Role-Based Access Control (RBAC)
+
+API & Testing:  RESTful API Development | API Integration | Postman
+
+Databases: PostgreSQL | MySQL | SQLite
+
+Tools: Git | GitHub | VS Code 
 
 ---
 
