@@ -30,6 +30,7 @@ API & Testing:  RESTful API Development | API Integration | Postman
 Databases: PostgreSQL | MySQL | SQLite
 
 Tools: Git | GitHub | VS Code 
+
 ---
 
 ## 🚀 Featured Projects
